@@ -1,0 +1,3 @@
+# Files to load
+city_data_to_load = "/Users/Ray Mysterio/OneDrive/Desktop/Bootcamp/Module 5-Pyber_Analysis/Resources/city_data1.csv"
+ride_data_to_load = "/Users/Ray Mysterio/OneDrive/Desktop/Bootcamp/Module 5-Pyber_Analysis/Resources/ride_data1.csv"

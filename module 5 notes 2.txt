@@ -1,0 +1,9 @@
+key skills:
+
+SQL
+Linux Shell
+Python/Numpy/DF
+Plot
+Tableau
+
+Gather(Extract)-->Clean(Transform)--->Save(Load)-->Display
